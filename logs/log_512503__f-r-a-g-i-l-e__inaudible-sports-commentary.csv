@@ -1,0 +1,4 @@
+time_s,voiced_ratio,lufs_now,speech_med,ambient_med,snr_est_db
+0.00,0.00,-13.81,,-13.81,
+0.50,0.00,-13.03,,-13.42,
+1.00,0.00,-13.42,,-13.42,

@@ -3,7 +3,7 @@
 venv/
 
 # Logs and temp
-logs/
+
 __pycache__/
 *.pyc
 
