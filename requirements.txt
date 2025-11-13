@@ -1,0 +1,10 @@
+numpy
+scipy
+soundfile
+pyloudnorm
+torch
+torchaudio
+silero-vad
+PyYAML
+requests
+

@@ -1,0 +1,10 @@
+feed_name: "EN_Commentary_1"
+targets:
+  speech_lufs: -20
+  speech_lufs_min: -23
+  speech_lufs_max: -17
+  snr_min: 4
+  snr_max: 14
+alerts:
+  teams_webhook: "https://eoy9kdmwzjwlesd.m.pipedream.net"   
+  cooldown_sec: 30
