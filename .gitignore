@@ -12,6 +12,4 @@ __pycache__/
 .vscode/
 .idea/
 
-# Ignore generated logs
-logs*.csv
-*.csv
+
