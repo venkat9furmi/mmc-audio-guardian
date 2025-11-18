@@ -34,8 +34,8 @@ For this prototype, the webhook was tested using Pipedream.
 
 Under the hood:
 
- Silero-VAD (AI model) for speech detection
- Python DSP for LUFS and SNR
+ Silero-VAD (AI model) for speech detection.
+ Python DSP for LUFS and SNR.
  A small state machine to avoid spamming alerts
 
 ---
