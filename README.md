@@ -3,7 +3,6 @@ _AI-based audio monitoring used  for live sports commentary (prototype for mmc s
 
 # 1. Overview
 
-Live football commentary is produced in up to 11 languages in parallel.  
 Today, manually check each audio feed.
 
 Is the livestream actually audible?
